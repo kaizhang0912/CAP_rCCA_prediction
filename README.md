@@ -13,7 +13,7 @@ This repository contains analysis scripts used in the study.
 
 ## Dependencies
 
-Python = Python 3.11.6
+Python >= Python 3.11
 
 Packages:
 - numpy
